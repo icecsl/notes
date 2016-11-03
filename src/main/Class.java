@@ -8,5 +8,7 @@ public class Class {
         System.out.println("master");
         System.out.println("master2");
 
+        System.out.println("add dev2");
+
     }
 }
