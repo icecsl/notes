@@ -58,9 +58,9 @@
             <state vertical-scroll-proportion="34.5">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1478152639000" expanded="true" signature="38800:38842" placeholder="..." />
-                <marker date="1478152639000" expanded="true" signature="38800:38860" placeholder="..." />
-                <marker date="1478152639000" expanded="true" signature="38800:38873" placeholder="..." />
+                <marker date="1478152724000" expanded="true" signature="40914:40956" placeholder="..." />
+                <marker date="1478152724000" expanded="true" signature="40914:40974" placeholder="..." />
+                <marker date="1478152724000" expanded="true" signature="40914:40987" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -678,7 +678,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202000" />
+    <option name="totallyTimeSpent" value="298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="711" extended-state="0" />
@@ -774,9 +774,9 @@
         <state vertical-scroll-proportion="34.5">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1478152639000" expanded="true" signature="38800:38842" placeholder="..." />
-            <marker date="1478152639000" expanded="true" signature="38800:38860" placeholder="..." />
-            <marker date="1478152639000" expanded="true" signature="38800:38873" placeholder="..." />
+            <marker date="1478152724000" expanded="true" signature="40914:40956" placeholder="..." />
+            <marker date="1478152724000" expanded="true" signature="40914:40974" placeholder="..." />
+            <marker date="1478152724000" expanded="true" signature="40914:40987" placeholder="..." />
           </folding>
         </state>
       </provider>
