@@ -11,5 +11,7 @@ public class Class {
 
         System.out.println("add dev1");
 
+        System.out.println("git history");
+
     }
 }
